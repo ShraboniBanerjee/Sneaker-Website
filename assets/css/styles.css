@@ -167,7 +167,7 @@ img{
   left:0;
 }
 
-/*===== Active Link =====*/
+/*===== Active Link =====
 
 .active {
   position: relative;
@@ -185,6 +185,7 @@ img{
 } 
 
  /*===== Change color header =====*/
+
 .scroll-header {
   background-color: var(--white-color);
   box-shadow: 0 2px 4px rgba(0,0,0, .1); 
